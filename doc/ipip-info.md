@@ -1,0 +1,5 @@
+- [Big Five Factor Markers](https://ipip.ori.org/newBigFive5broadKey.htm)
+- [Converting IPIP Item Responses to Scale Scores](https://ipip.ori.org/newScoringInstructions.htm)
+- [Administering IPIP Measures, with a 50-item Sample Questionnaire](https://ipip.ori.org/new_ipip-50-item-scale.htm)
+- [Big Five Personality Test on openpsychmetrics.org](http://openpsychometrics.org/tests/IPIP-BFFM/)
+- [All Test Data on openpsychmetrics.org](http://openpsychometrics.org/)
