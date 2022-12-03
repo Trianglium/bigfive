@@ -1,4 +1,4 @@
-const QUIZ = {
+const QuizResult = {
     extraversion: 0,
     agreeableness: 0,
     conscientiousness: 0,
