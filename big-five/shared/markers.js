@@ -54,5 +54,32 @@ MARKERS = [
     
         ]
     },
-
+    {
+        "name": "Conscientiousness",
+        "pos": [
+            "Am always prepared.",
+            "Pay attention to details.",
+            "Get chores done right away.",
+            "Like order.",
+            "Follow a schedule.",
+            "Am exacting in my work.",
+            "Do things according to a plan.",
+            "Continue until everything is perfect.",
+            "Make plans and stick to them.",
+            "Love order and regularity.",
+            "Like to tidy up."
+        ],
+        "neg": [
+            "Leave my belongings around.",
+            "Make a mess of things.",
+            "Often forget to put things back in their proper place.",
+            "Shirk my duties.",
+            "Neglect my duties.",
+            "Waste my time.",
+            "Do things in a half-way manner.",
+            "Find it difficult to get down to work.",
+            "Leave a mess in my room."
+    
+        ]
+    },
 ];
