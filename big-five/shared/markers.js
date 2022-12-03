@@ -82,4 +82,33 @@ MARKERS = [
     
         ]
     },
+    {
+        "name": "Emotional Stability",
+        "pos": [
+            "Am relaxed most of the time.",
+            "Seldom feel blue.",
+            "Am not easily bothered by things.",
+            "Rarely get irritated.",
+            "Seldom get mad."
+        ],
+        "neg": [
+            "Get stressed out easily.",
+            "Worry about things.",
+            "Am easily disturbed.",
+            "Get upset easily.",
+            "Change my mood a lot.",
+            "Have frequent mood swings.",
+            "Get irritated easily.",
+            "Often feel blue.",
+            "Get angry easily.",
+            "Panic easily.",
+            "Feel threatened easily.",
+            "Get overwhelmed by emotions.",
+            "Take offense easily.",
+            "Get caught up in my problems.",
+            "Grumble about things."
+        ]
+    },
+
+
 ];
