@@ -109,6 +109,32 @@ MARKERS = [
             "Grumble about things."
         ]
     },
-
+    {
+        "name": "Imagination",
+        "pos": [
+            "Have a rich vocabulary.",
+            "Have a vivid imagination.",
+            "Have excellent ideas.",
+            "Am quick to understand things.",
+            "Use difficult words.",
+            "Spend time reflecting on things.",
+            "Am full of ideas.",
+            "Carry the conversation to a higher level.",
+            "Catch on to things quickly.",
+            "Can handle a lot of information.",
+            "Love to think up new ways of doing things.",
+            "Love to read challenging material.",
+            "Am good at many things."
+        ],
+        "neg": [
+            "Have difficulty understanding abstract ideas.",
+            "Am not interested in abstract ideas.",
+            "Do not have a good imagination.",
+            "Try to avoid complex people.",
+            "Have difficulty imagining things.",
+            "Avoid difficult reading material.",
+            "Will not probe deeply into a subject."
+        ]
+    }
 
 ];
