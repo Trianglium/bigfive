@@ -26,6 +26,33 @@ MARKERS = [
             "Wait for others to lead the way.",
         ]
     },
-
+    {
+        "name": "Agreeableness",
+        "pos": [
+            "Am interested in people.",
+            "Sympathize with others' feelings.",
+            "Have a soft heart.",
+            "Take time out for others.",
+            "Feel others' emotions.",
+            "Make people feel at ease.",
+            "Inquire about others' well-being.",
+            "Know how to comfort others.",
+            "Love children.",
+            "Am on good terms with nearly everyone.",
+            "Have a good word for everyone.",
+            "Show my gratitude.",
+            "Think of others first.",
+            "Love to help others."
+        ],
+        "neg": [
+            "Insult people.",
+            "Am not interested in other people's problems.",
+            "Feel little concern for others.",
+            "Am not really interested in others.",
+            "Am hard to get to know.",
+            "Am indifferent to the feelings of others."
+    
+        ]
+    },
 
 ];
