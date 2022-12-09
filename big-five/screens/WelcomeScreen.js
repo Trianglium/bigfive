@@ -12,7 +12,7 @@ const WelcomeScreen = ({ navigation }) => {
       </View>
       <Button
         onPress={() => {
-          navigation.navigate("Subscribe");
+          navigation.navigate("Quiz");
         }}
       >
         Signup
