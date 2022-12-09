@@ -15,7 +15,7 @@ const WelcomeScreen = ({ navigation }) => {
           navigation.navigate("Quiz");
         }}
       >
-        Signup
+        Start the quiz
       </Button>
     </View>
   );
